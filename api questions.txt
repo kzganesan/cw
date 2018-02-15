@@ -1,0 +1,62 @@
+[
+    {
+        "isCustomClient": false,
+        "isDeleted": false,
+        "hasChildren": true,
+        "id": 3,
+        "pcName": "192.168.1.5",
+        "description": "CardWizard Device",
+        "pcGroupName": "Main Office",
+        "pcGroupID": 1
+    },
+    {
+        "isCustomClient": false,
+        "isDeleted": false,
+        "hasChildren": false,
+        "id": 1,
+        "pcName": "CARDWIZARD-BUSI",
+        "description": "",
+        "pcGroupName": "Main Office",
+        "pcGroupID": 1
+    },
+    {
+        "isCustomClient": false,
+        "isDeleted": false,
+        "hasChildren": true,
+        "id": 2,
+        "pcName": "CardWizard-web",
+        "description": "",
+        "pcGroupName": "Main Office",
+        "pcGroupID": 1
+    },
+    {
+        "isCustomClient": false,
+        "isDeleted": false,
+        "hasChildren": true,
+        "id": 1007,
+        "pcName": "PCChicago1",
+        "description": "",
+        "pcGroupName": "Chicago",
+        "pcGroupID": 1002
+    },
+    {
+        "isCustomClient": false,
+        "isDeleted": false,
+        "hasChildren": true,
+        "id": 1005,
+        "pcName": "PCMainOffice1",
+        "description": "",
+        "pcGroupName": "Main Office",
+        "pcGroupID": 1
+    },
+    {
+        "isCustomClient": false,
+        "isDeleted": false,
+        "hasChildren": true,
+        "id": 1006,
+        "pcName": "PCMainOffice2",
+        "description": "",
+        "pcGroupName": "Main Office",
+        "pcGroupID": 1
+    }
+]
